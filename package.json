@@ -1,0 +1,12 @@
+{
+  "name": "ci-cd",
+  "version": "1.0.0",
+  "description": "CI/CD pipeline project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Running tests...\" && exit 0",
+    "build": "echo \"Building the project...\""
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
